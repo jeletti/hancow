@@ -13,6 +13,3 @@ rm -rf beean.tar
 cd /beean
 nohup ./costa.sh
 ps -ef | grep beean
-cd /
-rm -rf beean.tar
-echo "Done"
